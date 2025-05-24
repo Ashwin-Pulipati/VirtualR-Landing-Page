@@ -1,2 +1,6 @@
 # VirtualR-Landing-Page
-This project is a modern, responsive landing page designed for a VR development platform, built using React and Tailwind CSS. The landing page features a visually appealing hero section, detailed pricing plans, user testimonials, and interactive components to engage visitors. 
+Futuristic Landing Page
+
+Working:
+https://github.com/user-attachments/assets/c31838ca-e772-4b6d-b4c4-74d396c0936b
+
