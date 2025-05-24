@@ -5,9 +5,5 @@ Working:
 
 https://github.com/user-attachments/assets/b00be0f0-3a1b-4d44-b58f-5c89e9edb949
 
-PageSpeedInsights:
-
-![Core Web Vitals](https://page-speed.dev/badge/ashwin-pulipati.github.io?style=flat-square)
-
 
 
